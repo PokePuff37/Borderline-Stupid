@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      "bls:useless_item",
+      "bls:useless_item",
+      "bls:useless_item",
+      "minecraft:red_dye"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bls:red_pill"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:coal_block",
+    "minecraft:coal_block",
+    "minecraft:coal_block",
+    "minecraft:coal_block"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bls:useless_item"
+  }
+}
