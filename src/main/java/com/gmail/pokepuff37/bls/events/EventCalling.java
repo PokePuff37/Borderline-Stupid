@@ -5,6 +5,7 @@ import static com.gmail.pokepuff37.bls.BorderlineStupid.LOGGER;
 public class EventCalling {
     public static void Picker() {
         int EventPicker = (int)(Math.random() * 31);
+        //There are extra event rolls in the table for my convenience
         if (EventPicker == 0) {
             LOGGER.info(EventPicker + "Was Rolled");
         } else if (EventPicker == 1) {
@@ -66,6 +67,26 @@ public class EventCalling {
         } else if (EventPicker == 29) {
             LOGGER.info(EventPicker + "Was Rolled");
         } else if (EventPicker == 30) {
+            LOGGER.info(EventPicker + "Was Rolled");
+        } else if (EventPicker == 31) {
+            LOGGER.info(EventPicker + "Was Rolled");
+        } else if (EventPicker == 32) {
+            LOGGER.info(EventPicker + "Was Rolled");
+        } else if (EventPicker == 33) {
+            LOGGER.info(EventPicker + "Was Rolled");
+        } else if (EventPicker == 34) {
+            LOGGER.info(EventPicker + "Was Rolled");
+        } else if (EventPicker == 35) {
+            LOGGER.info(EventPicker + "Was Rolled");
+        } else if (EventPicker == 36) {
+            LOGGER.info(EventPicker + "Was Rolled");
+        } else if (EventPicker == 37) {
+            LOGGER.info(EventPicker + "Was Rolled");
+        } else if (EventPicker == 38) {
+            LOGGER.info(EventPicker + "Was Rolled");
+        } else if (EventPicker == 39) {
+            LOGGER.info(EventPicker + "Was Rolled");
+        } else if (EventPicker == 40) {
             LOGGER.info(EventPicker + "Was Rolled");
         } else {
             LOGGER.info(EventPicker + "Was Rolled And Is Not In The Table");

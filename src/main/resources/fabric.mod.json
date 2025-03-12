@@ -18,8 +18,8 @@
 		"main": [
 			"com.gmail.pokepuff37.bls.BorderlineStupid",
 			"com.gmail.pokepuff37.bls.block.BorderlineStupidBlocks",
-			"com.gmail.pokepuff37.bls.item.BorderlineStupidItems"
-
+			"com.gmail.pokepuff37.bls.item.BorderlineStupidItems",
+			"com.gmail.pokepuff37.bls.commands.BorderLineStupidCommands"
 		],
 		"client": [
 			"com.gmail.pokepuff37.bls.BorderlineStupidClient"
