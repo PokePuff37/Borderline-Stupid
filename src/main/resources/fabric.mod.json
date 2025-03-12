@@ -16,7 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.gmail.pokepuff37.bls.BorderlineStupid"
+			"com.gmail.pokepuff37.bls.BorderlineStupid",
+			"com.gmail.pokepuff37.bls.block.BorderlineStupidBlocks",
+			"com.gmail.pokepuff37.bls.item.BorderlineStupidItems"
+
 		],
 		"client": [
 			"com.gmail.pokepuff37.bls.BorderlineStupidClient"
